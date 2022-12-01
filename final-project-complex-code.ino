@@ -3,13 +3,6 @@
 // Final Project: Complex Code
 // -----------------------------------------------------------------
 
-// NOTES FOR MYSELF: -----------------------------------------------
-// https://robojax.com/learn/arduino/?vid=robojax_touch_counter_V3_TM1637
-// https://www.electricalelibrary.com/en/2022/06/16/4-digits-display-tm1637-with-arduino/
-// https://lastminuteengineers.com/tm1637-arduino-tutorial/#:~:text=Hooking%20up%20the%20TM1637%20to,pins%202%20and%203%20resp.
-// https://forum.arduino.cc/t/rtc-solved-how-to-add-the-leading-0-zero-to-the-rtc-datas/183159/6
-// https://forum.arduino.cc/t/if-time-midnight-do/1004927
-
 //    FOR RTC: --------------------------------------------------------
 //      if currentTime (rtc.now()) != prevTime {
 //        counter = 0;
